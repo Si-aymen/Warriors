@@ -1,2 +1,0 @@
-# Warriors
-video game project 
